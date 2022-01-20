@@ -1,0 +1,17 @@
+{
+    "name": "tihomir/bootcamp",
+    "autoload": {
+        "psr-4": {
+            "Tihomir\\Bootcamp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "tihomir",
+            "email": "tihomir.marinov96@gmail.com"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.5"
+    }
+}
