@@ -7,5 +7,7 @@
     $getUserList = $user->getUserList();
 
     echo $getUserList;
+    echo "Advance Academy!";
+    echo "Start Bootcamp!";
     $h = 3;
     echo $h;

@@ -7,7 +7,7 @@ class UserController
 
     public function __construct()
     {
-       
+       echo "asddasdsa";
     }
 
     public function getUserList()
