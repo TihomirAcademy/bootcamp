@@ -14,6 +14,10 @@ class UserController
     {
         return 'hello';
     }
+    public function getCarList()
+    {
+        return 'car list';
+    }
 
     public function getUser(integer $id)
     {
