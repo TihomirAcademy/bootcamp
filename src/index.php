@@ -8,3 +8,4 @@
 
     echo $getUserList;
     echo "Advance Academy!";
+    echo "Start Bootcamp!";
