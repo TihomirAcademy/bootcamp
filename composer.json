@@ -2,7 +2,7 @@
     "name": "tihomir/bootcamp",
     "autoload": {
         "psr-4": {
-            "Tihomir\\Bootcamp\\": "src/"
+            "App\\": "src/"
         }
     },
     "authors": [
