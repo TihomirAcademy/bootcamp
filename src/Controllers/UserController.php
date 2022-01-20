@@ -12,6 +12,7 @@ class UserController
 
     public function getUserList()
     {
+        echo "hello from github";
         return 'hello';
     }
 
