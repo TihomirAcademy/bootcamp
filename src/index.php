@@ -7,3 +7,4 @@
     $getUserList = $user->getUserList();
 
     echo $getUserList;
+    echo "Advance Academy!";
